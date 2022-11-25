@@ -7,7 +7,7 @@
 
 - 🌱 I am currently studying **Web development HTML, CSS & JAVASCRIPT**
 
-- 👨‍💻 See my last projects [https://www.behance.net/lauritisreyes](behance)
+- 👨‍💻 See my last projects [https://www.behance.net/lauritisreyes]([behance](https://www.behance.net/lauritisreyes))
 
 - 📫 Say howdly: **laura.reyessb@gmail.com**
 
