@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am LAURA REYES</h1>
 <h3 align="center">Who I am?</h3>
 
-- 🖥 I am a Product Designer UI/UX with Frontend skills
+- 🖥 I am a Product Designer UI/UX and Frontend Developer
 
 - 👨‍💻 Visit my live porfolio [https://www.lauritisreyes.com](https://www.lauritisreyes.com)
 
